@@ -1,0 +1,76 @@
+CrisisSense-LLM: Instruction Fine-Tuned Large Language Model for Multi-label Social Media Text Classification in Disaster Informatics
+https://www.sciencedirect.com/science/article/pii/S1474034626005288
+
+The empirical study of tweet classification system for disaster response using shallow and deep learning models
+https://link.springer.com/article/10.1007/s12652-024-04807-w
+
+Multi-label disaster text classification via supervised contrastive learning for social media data
+https://www.sciencedirect.com/science/article/pii/S0045790622006188
+
+Structured AI decision-making in disaster management
+https://www.nature.com/articles/s41598-025-15317-w
+
+Social media, disasters, and cultural heritage: An analysis of Twitter images of the 2015 Nepal earthquake
+https://www.tandfonline.com/doi/abs/10.1080/15551393.2021.2021080
+
+
+Promoting and countering misinformation during Australia’s 2019–2020 bushfires: A case study of polarisation
+https://link.springer.com/article/10.1007/s13278-022-00892-x
+
+The wisdom of crowds for improved disaster resilience: a near-real-time analysis of crowdsourced social media data on the 2021 flood in Germany
+https://link.springer.com/article/10.1007/s10708-023-10858-x
+
+How empty is Trustworthy AI? A discourse analysis of the Ethics Guidelines of Trustworthy AI
+https://www.tandfonline.com/doi/abs/10.1080/19460171.2024.2315431
+
+DisasterWatch: AI-Powered Real-Time Multi-Disaster Alert System Using Crowdsourced Data
+https://www.igi-global.com/chapter/smart-disaster-management-minimizing-response-time-in-disaster-situations-using-ai/384052
+
+AI for smart disaster resilience among communities
+https://link.springer.com/chapter/10.1007/978-3-031-67317-7_22
+
+AI–Social Media Integration for Crisis Management: A Systematic Review of Data and Learning Aspects
+https://www.mdpi.com/2076-3417/15/22/12283
+
+Ethical and operational implications of AI in crisis response: Balancing automation and human decision-making
+https://www.researchgate.net/profile/Mia-Cate/publication/391047864_Ethical_and_Operational_Implications_of_AI_in_Crisis_Response_Balancing_Automation_and_Human_Decision-_Making/links/6808d880df0e3f544f45b6fb/Ethical-and-Operational-Implications-of-AI-in-Crisis-Response-Balancing-Automation-and-Human-Decision-Making.pdf
+
+AI and NLP in Social Good: Enhancing Emergency Response and Crisis Handling via Text Analytics
+https://www.researchgate.net/profile/Maimuna-Tasnim-Nusaiba/publication/400525403_AI_and_NLP_in_Social_Good_Enhancing_Emergency_Response_and_Crisis_Handling_via_Text_Analytics/links/6985e8da7247bc6473de9d7e/AI-and-NLP-in-Social-Good-Enhancing-Emergency-Response-and-Crisis-Handling-via-Text-Analytics.pdf
+
+
+AI-driven automated incident response and remediation in networks
+https://www.ijtmh.com/index.php/ijtmh/article/view/129
+
+Harnessing the power of artificial intelligence for disaster response and crisis management
+https://ieeexplore.ieee.org/abstract/document/10593506/
+
+Leveraging artificial intelligence for enhanced disaster response coordination
+https://internationaljournalofdisasterriskmanagement.com/index.php/Vol1/article/view/105
+
+Information technology for automatic detection of calls for terrorist acts in social media posts and comments based on machine learning
+https://ceur-ws.org/Vol-4126/paper18.pdf
+
+AI-Enhanced Decision Support Systems for Accelerated and Informed Health Crisis Response Management
+https://www.researchgate.net/profile/John-Mathew-26/publication/394070534_AI-ENHANCED_DECISION_SUPPORT_SYSTEMS_FOR_ACCELERATED_AND_INFORMED_HEALTH_CRISIS_RESPONSE_MANAGEMENT/links/6887cbd94eccfb3f29c5cdc9/AI-ENHANCED-DECISION-SUPPORT-SYSTEMS-FOR-ACCELERATED-AND-INFORMED-HEALTH-CRISIS-RESPONSE-MANAGEMENT.pdf
+
+AI-Enabled Hybrid Decision Intelligence Framework for Autonomous Business Continuity and Crisis Management
+https://ieeexplore.ieee.org/abstract/document/11546247/
+
+AI-Driven Early Warning Systems: Design and Implementation
+https://www.researchgate.net/profile/Mia-Cate/publication/390731161_AI-Driven_Early_Warning_Systems_Design_and_Implementation/links/67faba31d1054b0207d2e16a/AI-Driven-Early-Warning-Systems-Design-and-Implementation.pdf
+
+Smart alerts for complex risks: A dual-risk framework for understanding AI-driven crisis communication in the computational age
+https://rosa.uniroma1.it/rosa03/mediascapes/article/view/19271
+
+LSTM-attention based deep learning framework for real-time public opinion monitoring and early warning in sudden events
+https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14064/1406430/LSTM-attention-based-deep-learning-framework-for-real-time-public/10.1117/12.3089224.short
+
+AI-driven crisis communication and emergency response: Optimizing nonprofit digital outreach during national disasters
+https://ijsir.org/index.php/IJSIR/article/view/37
+
+AI-powered disaster response and damage assessment system
+https://www.researchgate.net/profile/Hari-Haram/publication/403690729_AI-Powered_Disaster_Response_and_Damage_Assessment_System/links/69d8c4045970dd1b05f78431/AI-Powered-Disaster-Response-and-Damage-Assessment-System.pdf
+
+
+
