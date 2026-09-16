@@ -56,7 +56,7 @@ This project was submitted to the **2026 International Conference on Innovation 
 Track: **Big Data**  
 Topics: **Natural Language Processing, Social Networks Analytics**  
 
-![Conference Submission Screenshot](Conference Submission Screenshot.jpeg)
+![Conference Submission Screenshot.jpeg](https://github.com/Deema-AL-Maqadma/test/blob/main/Conference%20Submission%20Screenshot.jpeg)
 
 ---
 
